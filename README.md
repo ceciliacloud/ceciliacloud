@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @speechycode
-- 👀 I’m interested in DevOps, Cloud Architecture, Cybersecurity, Blockchain and more!
+- 👀 I’m interested in DevOps, Cloud Architecture, Cybersecurity, and Blockchain!
 - 🌱 I’m currently learning Python 🐍
 - 💞️ I’m looking to apply learning by collaborating on entry-level projects
 - 📫 How to reach me: GitHub & Tumblr (speechycode.tumblr.com)
