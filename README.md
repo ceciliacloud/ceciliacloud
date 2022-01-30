@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @speechycode
-- 👀 I’m interested in Cloud Engineering, Cybersecurity, and Blockchain! 
-- 🌱 I’m currently learning Python 🐍
+- 👀 I’m interested in Cloud Engineering and Cybersecurity!
+- 🌱 I’m currently learning Linux & Python 🐍
 - 💞️ I’m looking to apply learning through hands-on projects
 - 📫 How to reach me: Twitter (https://twitter.com/speechycode) | Dev.to (https://dev.to/speechycode) | LinkedIn (https://www.linkedin.com/in/ceciliakanne) 
 <!---
