@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @speechycode
+- 👋 Hi, I’m Cecilia
 - 👀 I’m interested in Cloud Engineering and Cybersecurity!
 - 🌱 I’m currently learning Linux & Python 🐍
 - 💞️ I’m looking to apply learning through hands-on projects
