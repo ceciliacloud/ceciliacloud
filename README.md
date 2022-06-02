@@ -18,7 +18,6 @@
 
 <h1>
   Hello, I'm Cecilia!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 
 <div id="header" align="left">
@@ -56,4 +55,4 @@
 ### :fire: My Stats :
  
 <div id="badges" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceciliacloud&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceciliacloud&theme=dark&background=000000)](https://git.io/streak-stats)
