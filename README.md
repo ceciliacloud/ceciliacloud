@@ -18,7 +18,7 @@
 
 <h1>
   Hello, I'm Cecilia!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 
 <div id="header" align="left">
@@ -29,7 +29,7 @@
   
 - :telescope: I’m currently focused on contributing to frontend and backend projects.
 
-- :seedling: Exploring cloud technologies and cybersecurity
+- :seedling: Exploring cloud-native technologies and cybersecurity
 
 - :zap: In my free time, I play tennis and learn for fun!
 
@@ -54,5 +54,6 @@
   ---------------
 
 ### :fire: My Stats :
-    
+ 
+<div id="badges" align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceciliacloud&theme=dark&background=000000)](https://git.io/streak-stats)
