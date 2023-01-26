@@ -25,13 +25,13 @@
 
   ### 	:nerd_face: About Me:
 
-  I am a Cloud/DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+  I am a Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
   
 - :telescope: I’m currently focused on contributing to frontend and backend projects.
 
 - :seedling: Exploring cloud-native technologies and cybersecurity
 
-- :zap: In my free time, I enjoy drawing, playing tennis, and reading!
+- :zap: In my free time, I enjoy playing tennis, drawing, and reading!
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cecilia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ceciliakanne)
 
