@@ -25,7 +25,7 @@
 
   ### 	:nerd_face: About Me:
 
-  I am a Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+  I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the USA.
   
 - :telescope: I’m currently focused on contributing to frontend and backend projects.
 
