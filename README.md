@@ -31,7 +31,7 @@
 
 - 👯 I’m looking to collaborate on open-source DevOps or cloud projects that push the boundaries of efficiency and innovation.
 
-- :seedling: 🤝 I’m currently learning Terraform for Infrastructure as Code (IaC) deployments, Kubernetes and container orchestration, and best practices for securing cloud infrastructures.
+- :seedling: I’m currently learning Terraform for Infrastructure as Code (IaC) deployments, Kubernetes and container orchestration, and best practices for securing cloud infrastructures.
 
 - 💬 Ask me about DevOps and AWS Cloud!
 
@@ -39,7 +39,7 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cecilia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ceciliakanne)
 
-- :zap: In my free time, I enjoy playing tennis, dancing, drawing, and reading!
+- :zap: In my spare time, I enjoy playing tennis, dancing, drawing, and reading!
 
  ----------
  
