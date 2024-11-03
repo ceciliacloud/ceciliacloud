@@ -21,7 +21,7 @@
   Hello, I'm Cecilia! 👋
 </h1>
  
-<div id="header" align="left">
+<div id="header" align="center">
 
   ### 	:nerd_face: About Me:
 
