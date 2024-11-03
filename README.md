@@ -27,13 +27,19 @@
 
   I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the USA.
   
-- :telescope: I’m currently focused on contributing to frontend and backend projects.
+- :telescope: I’m currently working on projects.
 
-- :seedling: Exploring cloud-native technologies and cybersecurity
+- 👯 I’m looking to collaborate on open-source DevOps or cloud projects that push the boundaries of efficiency and innovation.
 
-- :zap: In my free time, I enjoy playing tennis, drawing, and reading!
+- :seedling: 🤝 I’m currently learning Terraform for Infrastructure as Code (IaC) deployments, Kubernetes and container orchestration, and best practices for securing cloud infrastructures.
+
+- 💬 Ask me about DevOps and AWS Cloud!
+
+- 👨‍💻 All of my projects are available at https://github.com/ceciliacloud/
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cecilia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ceciliakanne)
+
+- :zap: In my free time, I enjoy playing tennis, dancing, drawing, and reading!
 
  ----------
  
