@@ -35,7 +35,7 @@
 
 - 💬 Ask me about DevOps and AWS Cloud!
 
-- 👨‍💻 All of my projects are available at https://github.com/ceciliacloud/
+- 👨‍💻 All of my projects are available at [https://github.com/ceciliacloud/](https://github.com/ceciliacloud?tab=repositories)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cecilia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ceciliakanne)
 
