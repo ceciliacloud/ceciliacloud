@@ -41,12 +41,6 @@
 
 - :zap: In my spare time, I enjoy playing tennis, dancing, drawing, and reading!
 
- ----------
- 
- ### :fire: My Stats:
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ceciliacloud&theme=radical)](https://git.io/streak-stats)
- 
 ----------
  
 ### :hammer_and_wrench: Languages and Tools:  
